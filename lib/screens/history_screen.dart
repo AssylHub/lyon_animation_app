@@ -97,7 +97,7 @@ class _HistoryScreenState extends State<HistoryScreen>
                     text: TextSpan(
                       style: TextStyle(color: Colors.white),
                       children: [
-                        TextSpan(text: "Lyon is the ancient "),
+                        TextSpan(text: "Lyon is the ancient  "),
                         TextSpan(
                           text: "capital of Gaul\n",
                           style: TextStyle(color: Colors.pink),
